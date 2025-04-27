@@ -1,0 +1,18 @@
+# Gallery of Activities
+
+This page contains a carousel of activity images represented here as avatar placeholders.
+
+Use the carousel controls to navigate through the images.
+
+Images:
+- Avatar 1
+- Avatar 2
+- Avatar 3
+- Avatar 4
+- Avatar 5
+- Avatar 6
+- Avatar 7
+- Avatar 8
+- Avatar 9
+
+Note: Replace avatar placeholders with actual images when available.

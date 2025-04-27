@@ -1,0 +1,25 @@
+# Skills
+
+- Teaching  
+  Level: Expert  
+  Rating: ★★★★★
+
+- Curriculum Development  
+  Level: Advanced  
+  Rating: ★★★★☆
+
+- Educational Technology  
+  Level: Intermediate  
+  Rating: ★★★☆☆
+
+- Public Speaking  
+  Level: Advanced  
+  Rating: ★★★★☆
+
+- Leadership  
+  Level: Expert  
+  Rating: ★★★★★
+
+- Time Management  
+  Level: Advanced  
+  Rating: ★★★★☆

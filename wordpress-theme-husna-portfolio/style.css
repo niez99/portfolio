@@ -1,0 +1,96 @@
+/*
+Theme Name: Husna Portfolio Theme
+Theme URI: http://example.com/husna-portfolio-theme
+Author: Husna Hisaba Aenis
+Author URI: http://example.com
+Description: A simple WordPress theme for Husna Hisaba Aenis portfolio.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: husna-portfolio-theme
+Tags: portfolio, education, personal
+*/
+
+body {
+  background-color: #e0f7fa;
+  color: #333;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #00796b;
+  color: white;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+header img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 5px solid white;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.3rem;
+}
+
+header p {
+  font-size: 1.3rem;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+nav.navbar {
+  background-color: #004d40;
+  padding: 0.5rem 0;
+}
+
+nav.navbar .nav-link {
+  color: #b2dfdb;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+nav.navbar .nav-link:hover,
+nav.navbar .nav-link.current-menu-item {
+  color: white;
+  text-decoration: underline;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto 4rem;
+  background: #b2dfdb;
+  color: #004d40;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  padding: 2rem 2.5rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+section h2 {
+  border-bottom: 3px solid #00796b;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: #004d40;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #004d40;
+  color: white;
+  font-size: 0.9rem;
+  border-radius: 0 0 12px 12px;
+}
